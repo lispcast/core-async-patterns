@@ -3,6 +3,9 @@
 Code to accompany the [Clojure core.async Patterns course][patterns],
 part of [PurelyFunctional.tv Online Mentoring][mentoring].
 
+[patterns]: https://purelyfunctional.tv/courses/core-async-patterns
+[mentoring]: https://purelyfunctional.tv/
+
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
